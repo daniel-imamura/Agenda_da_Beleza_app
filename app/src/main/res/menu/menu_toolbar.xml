@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="criarServicos"
+        android:id="@+id/itemCriarServicos"
+        android:icon="@drawable/ic_money"
+        app:showAsAction="always"
+        android:iconTint="@color/darker_green"></item>
+
+</menu>

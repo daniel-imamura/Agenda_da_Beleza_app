@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="Busca"
+        android:id="@+id/buscaFragment"
+        android:icon="@drawable/ic_search"
+        app:showAsAction="always"/>
+
+    <item
+        android:title="Serviços"
+        android:id="@+id/servicosFragment"
+        android:icon="@drawable/ic_money"
+        app:showAsAction="always"/>
+
+    <item
+        android:title="Perfil"
+        android:id="@+id/perfilFragment"
+        android:icon="@drawable/ic_person"
+        app:showAsAction="always"/>
+</menu>

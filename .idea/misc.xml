@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3671875" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/drawable/background.xml" value="0.3671875" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/drawable/background_busca.xml" value="0.3671875" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/drawable/background_cadastro.xml" value="0.3671875" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/drawable/background_login.xml" value="0.3671875" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/drawable/background_salao.xml" value="0.3671875" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/drawable/background_servicos.xml" value="0.3671875" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/drawable/background_sessao.xml" value="0.3671875" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/drawable/button.xml" value="0.3671875" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/drawable/button_agendar.xml" value="0.3671875" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/drawable/button_confirmar_valor.xml" value="0.3671875" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/drawable/card_view.xml" value="0.3671875" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/drawable/category.xml" value="0.3671875" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/drawable/container_components.xml" value="2.517857142857143" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/drawable/container_components_servicos.xml" value="0.3671875" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/drawable/edit_text.xml" value="1.792857142857143" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/drawable/edit_text_login.xml" value="0.3671875" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/drawable/edit_text_observacao.xml" value="0.3671875" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/drawable/edt_color_state.xml" value="0.3671875" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/drawable/edt_preco_servico.xml" value="0.3671875" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/drawable/ic_calendar.xml" value="0.3671875" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/drawable/ic_eye.xml" value="0.21145833333333333" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3671875" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/drawable/ic_person.xml" value="0.3671875" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/drawable/search_bar.xml" value="0.3671875" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/layout/activity_agendar_servico.xml" value="0.33" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/layout/activity_busca.xml" value="0.35104166666666664" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/layout/activity_cliente_cadastro.xml" value="0.35104166666666664" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/layout/activity_cliente_login.xml" value="0.35104166666666664" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/layout/activity_criar_servicos.xml" value="0.35104166666666664" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/layout/activity_home.xml" value="0.35104166666666664" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/layout/activity_salao_cadastro.xml" value="0.35104166666666664" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/layout/activity_salao_info.xml" value="0.35104166666666664" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/layout/activity_salao_login.xml" value="0.33" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/layout/activity_saloes_buscados.xml" value="0.35104166666666664" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/layout/activity_sessoes.xml" value="0.35104166666666664" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/layout/activity_teste.xml" value="0.33" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/layout/fragment2_layout.xml" value="0.35104166666666664" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/layout/fragment3_layout.xml" value="0.35104166666666664" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/layout/fragment_busca.xml" value="0.35104166666666664" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/layout/fragment_dashboard.xml" value="0.22" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/layout/fragment_home.xml" value="0.18177083333333333" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/layout/fragment_layout.xml" value="0.35104166666666664" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/layout/fragment_perfil.xml" value="0.35104166666666664" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/layout/fragment_profile.xml" value="0.35104166666666664" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/layout/fragment_servicos.xml" value="0.33" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/menu/bottom_menu.xml" value="0.35104166666666664" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/menu/menu_toolbar.xml" value="0.33" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/mipmap-anydpi-v26/ic_closed_eye.xml" value="0.3671875" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/mipmap-anydpi-v26/ic_closed_eye_round.xml" value="0.21145833333333333" />
+        <entry key="..\:/Daniel/COISAS_IMPORTANTES/Dispositivos_moveis/Agenda_da_Beleza/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3671875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav"
+    app:startDestination="@id/buscaFragment">
+
+    <fragment
+        android:id="@+id/buscaFragment"
+        android:name="br.unicamp.agenda_da_beleza.BuscaFragment"
+        android:label="fragment_busca"
+        tools:layout="@layout/fragment_busca" />
+    <fragment
+        android:id="@+id/perfilFragment"
+        android:name="br.unicamp.agenda_da_beleza.PerfilFragment"
+        android:label="fragment_perfil"
+        tools:layout="@layout/fragment_perfil" />
+    <fragment
+        android:id="@+id/servicosFragment"
+        android:name="br.unicamp.agenda_da_beleza.ServicosFragment"
+        android:label="fragment_servicos"
+        tools:layout="@layout/fragment_servicos" />
+</navigation>
